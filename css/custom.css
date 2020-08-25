@@ -1,0 +1,183 @@
+/*--------------------------------------------------------------
+
+  Template Name: Tasfiu Corporate HTML Template.
+  Template URI: #
+  Description: Tasfiu is a unique website template designed in HTML with a simple & beautiful look. There is an excellent solution for creating clean, wonderful and trending material design corporate, corporate any other purposes websites.
+  Author: HasTech
+  Author URI: https://themeforest.net/user/hastech/portfolio
+  Version: 1.0
+---------------------------------------------------------------*/
+
+/* ----------------------------------------------------
+	You can put your custom css code here: 
+-------------------------------------------------------*/
+
+#sticky-header-with-topbar {
+    background: #3e08bd;
+}
+.footer-bottom-area {
+    background: #005274;
+    border-bottom: 1px solid #005274;
+}
+.main-menu {
+    float: left;
+}
+.header-logo-area .single-address-area {
+    display: flex;
+    margin-bottom: 0;
+    margin-top: 30px;
+}
+.header-logo-area .address-icon i {
+    margin-right: 15px;
+    height: 39px;
+    line-height: 41px;
+    width: 40px;
+}
+.header-logo-inner {
+    padding-bottom: 10px;
+}
+.header-logo-area {
+    background: #fff;
+}
+.header-logo-area a, .header-logo-area p {
+    color: #2c312b;
+}
+.header-logo-area .logo a {
+    float: left;
+    margin-right: 30px;
+}
+.logo a {
+    margin-top: 10px;
+}
+.company-name {
+    float: left;
+    margin-top: 10px;
+}
+.company-name h1 {
+    margin: 13px 0 10px;
+    font-size: 33px;
+}
+.company-name h5 {
+    color: #005274;
+}
+.height-100 {
+    height: 65px !important;
+}
+.main-menu > li > a {
+    height: 65px !important;
+    line-height: 63px;
+    font-weight: 500;
+}
+.header-bottom-area.scroll-header {
+    background: #1e13bf;
+}
+.main-menu ul.dropdown li a {
+    font-size: 13px;
+}
+
+.our-team-area .tf-blog-front {
+    text-align: center;
+}
+.our-team-area .tf-blog-front img {
+    height: 250px;
+    width: 250px;
+}
+.our-team-area .tf-blog-body {
+    overflow: hidden;
+    padding: 20px 10px 10px;
+}
+.our-team-area .tf-blog-body h2 {
+    font-size: 15px;
+    line-height: 16px;
+}
+label {
+    color: #2f2f2f;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    margin-bottom: 8px;
+    position: relative;
+    text-transform: capitalize;
+}
+input[type="text"], input[type="email"], input[type="password"] {
+    height: auto;
+}
+.our-client-area .tf-blog-body {
+    overflow: hidden;
+    padding: 20px 10px 10px;
+}
+.our-client-area .tf-blog-body h2 a {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+}
+.h-bold {
+    color: #005274 !important;
+    font-size: 25px;
+    margin-bottom: 12px;
+}
+.message p {
+    margin-bottom: 10px;
+}
+
+
+/*---Home page notice board and slider---*/
+.carousel .item img {
+    height: 405px;
+}
+.notice-title h3, .visitor-title h3 {
+    background: #00743a;
+    padding: 8px 10px;
+    margin: 0px 0 0;
+    color: #fff;
+    font-size: 20px;
+}
+.notice-content .marquee {
+    background: #eee;
+    overflow: hidden;
+    padding: 7px 10px 8px;
+}
+.notice-content .marquee li {
+    margin-bottom: 0px;
+    text-align: justify;
+    list-style-type: square;
+    color: rgb(153, 120, 120);
+    float: left;
+    margin-right: 20px;
+}
+.notice-content .marquee li a {
+    color: #222;
+}
+.notice-content .marquee li a:hover {
+    color: #005274;
+}
+.notice-content .marquee li a i.fa {
+    color: #f7d9d9;
+}
+.visitor-content{
+	background: #eee;
+	color: #000;
+}
+.visitor-content .table>tbody>tr>td {
+    padding: 1px 10px;
+    vertical-align: middle;
+    border-top: 1px solid #ddd;
+}
+.visitor-content h3.hit {
+    margin: 0px;
+    color: #79a1b3;
+}
+/*---Home page notice board and slider---*/
+.notice-title {
+    width: 90px;
+    height: 20px;
+    float: left;
+}
+.carousel-inner>.item>img {
+    width: 100%;
+}
+.box.box-ownn {
+    margin-bottom: 15px;
+    float: left;
+}
